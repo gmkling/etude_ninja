@@ -1,0 +1,36 @@
+etude_ninja
+--
+
+etude_ninja is a set of tools that can be used to create audio datasets by slicing up and annotating audio inputs. The use case in mind is in segmenting audio recordings of musical etudes in order to create audio datasets of musical performance in situ. The goal is to significantly automate laborious tasks related selecting split points, collecting annotations, and create well-behaved datasets. 
+
+Workflow Design
+--
+Input Data: Audio recordings, partial metadata, musical scores
+Desired output: Well annotated data (using musical vocabulary) in well organized records
+
+1) Gather scores and recordings
+2) Create top-level metadata (compositions, recordings, performers)
+3) Ingest, Annotate, and automatically decompose recordings
+4) Human review of automated splitting (adjust split, add missing annotation)
+5) Data Normalization and transformation for storage (Make tfrecords file: http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/)
+6) Getting the data in a format suitable for various uses (Nsynth, GANSynth, librosa, numpy, etc.) 
+7) Demo training/synth
+
+Currently, there are not many targets that I know of for audio datasets of traditional instruments. I am going to target Google's Magenta project, in particular NSynth-style dataset and the tools that use it.
+
+1: Step executed for each dataset, custom
+2: Annotations provided by user
+3: Decomp can be custom tool, or the onsets_frames_transcription tool -> midifile -> tool to split
+4: Custom tools
+
+5 and 6 discussion:
+
+Options to Create Datasets (NSynth-format):
+
+- Directly creating protobuf/tfrecord and serializing (would need to create tool for this, as in audio to tfrecord etc.) https://www.tensorflow.org/guide/datasets
+- Max Live instrument checkpoint. Can it be loaded to generate sound via python instead? https://github.com/tensorflow/magenta-demos/tree/master/nsynth
+
+Synth options:
+- NSynth itself
+- GANSynth - once data is packed in a tfrecord/protobuf, is this an option? 
+

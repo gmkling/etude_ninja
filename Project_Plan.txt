@@ -11,9 +11,10 @@ Desired output: Well annotated data (using musical vocabulary) in well organized
 1) Gather scores and recordings
 2) Create top-level metadata (compositions, recordings, performers)
 3) Ingest, Annotate, and automatically decompose recordings
-4) Human review of automated splitting (adjust split, add missing annotation)
-5) Data Normalization and transformation for storage (Make tfrecords file: http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/)
-6) Getting the data in a format suitable for various uses (Nsynth, GANSynth, librosa, numpy, etc.) 
+4) Human review of automated split marking (adjust split, add missing annotation)
+5) Create Data Normalization and transformations mappings(Make tfrecords file: http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/)
+(5a - an optimization would be to have option to preprocess and "freeze" data for training)
+6) During training pipeline, transform data in a format suitable for application (Nsynth, GANSynth, librosa, numpy, etc.)
 7) Demo training/synth
 
 Currently, there are not many targets that I know of for audio datasets of traditional instruments. I am going to target Google's Magenta project, in particular NSynth-style dataset and the tools that use it.

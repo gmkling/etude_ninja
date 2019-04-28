@@ -37,9 +37,10 @@ class etude_ninja:
             usage='''etude-ninja dataset <operation> [<args>]
             
             dataset operations include;
-                create      makes an entirely new database
-                add-comp    adds a composition to a database
-                add-rec     adds a recording to a database
+                create      makes an entirely new dataset
+                open        loads a dataset
+                add-comp    adds a composition to a dataset
+                add-rec     adds a recording to a dataset
                 add-
                 ''')
         parser.add_argument('operation', help='Operation for subcommand')
@@ -48,6 +49,7 @@ class etude_ninja:
         args = parser.parse_args(sys.argv[2:])
         # can't filter here, that will happen in Dataset object
         print("dataset: {}".format(args.operation))
+        print("arg: {}".format(sys.argv[3:]))
 
     def composition(self):
         print("composition")

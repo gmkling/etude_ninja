@@ -9,6 +9,7 @@ from db.sodb_music import *
 from db.sodb_notes import *
 from db.sodb_recordings import *
 from db.sodb_sf_data import *
+from db.sodb_midi_transcription import *
 from sqlalchemy.orm import sessionmaker
 import datetime
 

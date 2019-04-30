@@ -9,8 +9,9 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 from db.sodb import Sodb, sodb_sf_data, sodb_recordings, sodb_notes, sodb_music, sodb_annotations, sodb_midi_transcription
 from tkinter import *
 
-class Add_Recording(object):
-	"""A form for adding an audio recording to the database"""
+
+class Add_Midi_Transcription(object):
+	"""A form for adding a midi transcription of an audio recording to the database"""
 	def reset(self):
 		blankStr=str("0")
 		for field in self.fields:
@@ -22,26 +23,14 @@ class Add_Recording(object):
 		print("Reset action.")
 
 	def create(self, entries):
-		# get the args:
-		pri_perf = str(entries['Performer'].get())
-		oth_perf = str(entries['Other Performers'].get())
-		record_label =  str(entries['Record Label'].get())
-		date = str(entries['Date Recorded'].get())
-		medium = str(entries['Medium'].get())
-		comp_ID = str(entries['Composition ID'].get())
 		# Each field should get some basic QC, this is a
-		# Recipe for dirty data as is 
-		self.rec_db.primary_performer=pri_perf
-		self.rec_db.other_performers=oth_perf
-		self.rec_db.record_label=record_label
-		self.rec_db.date_recorded=date
-		self.rec_db.medium=medium
-		self.rec_db.sodb_music_id_music=comp_ID
+		# Recipe for dirty data as is
+
+		self.midi_trans_db.sodb_recordings_id= str(entries['Recording_ID'].get())
+		self.midi_trans_db.midi_filepath=  str(entries['midi_filepath'].get())
+		self.midi_trans_db.csv_version_filepath=str(entries['csv_version_filepath'].get())
 		# push it to DB
-		self.sodb_var.add_object(self.rec_db)
-		# I want to print the auto increment id_music for logging, 
-		# but this doesn't do the trick
-		print("Entry ID: {}".format(self.rec_db.id_recordings))
+		self.sodb_var.add_object(self.midi_trans_db)
 		self.sodb_var.commit_changes()
 		print("Create action.")
 
@@ -64,13 +53,9 @@ class Add_Recording(object):
 			lab.pack(side=LEFT)
 			ent.pack(side=RIGHT, expand=YES, fill=X)
 			self.entries[field] = ent
-		self.rec_db = sodb_recordings(primary_performer="",
-                                   other_performers="",
-                                   record_label="",
-                                   date_recorded=None,
-                                   medium='',
-                                   sodb_music_id_music=None,
-                                   sodb_sf_data_id_sf_data=None
+		self.midi_trans_db = sodb_midi_transcription(sodb_recordings_id="",
+                                   midi_filepath="",
+                                   csv_version_filepath=""
                                    )
 		return self.entries
 
@@ -78,22 +63,23 @@ class Add_Recording(object):
 		self.root.destroy()
 
 def main():
-   fields = ('Performer', 'Other Performers', 'Record Label', 'Date Recorded', 
-   			'Medium', 'Composition ID')
+   fields = ('Recording_ID', 'midi_filepath', 'csv_version_filepath')
    root = Tk()
-   theWindow = Add_Recording()
+   theWindow = Add_Midi_Transcription()
    ents = theWindow.makeform(root, fields)
-   root.bind('<Return>', (lambda event, e=ents: fetch(e)))   
+   root.bind('<Return>', (lambda event, e=ents: fetch(e)))
    b1 = Button(root, text='Create',
           command=(lambda e=ents: theWindow.create(e)))
    b1.pack(side=LEFT, padx=5, pady=5)
    b2 = Button(root, text='Reset',
           command=(lambda e=ents: theWindow.reset()))
    b2.pack(side=LEFT, padx=5, pady=5)
-   b3 = Button(root, text='Quit', 
+   b3 = Button(root, text='Quit',
           command=(lambda e=ents: theWindow.quit(e)))
    b3.pack(side=LEFT, padx=5, pady=5)
    root.mainloop()
 
 if __name__ == '__main__':
    main()
+
+#         sodb_midi_transcription(sodb_recordings_id='%d', midi_filepath='%s', csv_version_filepath='%s')>" % (

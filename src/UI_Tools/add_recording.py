@@ -36,7 +36,7 @@ class Add_Recording(object):
 		self.rec_db.record_label=record_label
 		self.rec_db.date_recorded=date
 		self.rec_db.medium=medium
-		self.rec_db.sodb_music_id_music=comp_ID
+		self.rec_db.sodb_music_id_recording=comp_ID
 		# push it to DB
 		self.sodb_var.add_object(self.rec_db)
 		# I want to print the auto increment id_music for logging, 
@@ -69,9 +69,8 @@ class Add_Recording(object):
                                    record_label="",
                                    date_recorded=None,
                                    medium='',
-                                   sodb_music_id_music=None,
-                                   sodb_sf_data_id_sf_data=None
-                                   )
+                                   sodb_music_id_recording=None
+								)
 		return self.entries
 
 	def quit(self, entries):

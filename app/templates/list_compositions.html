@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Composition Database</h1>
+    <form action="" method="post" novalidate>
+        {{ form.hidden_tag() }}
+
+        <div class="column">
+        <p>
+            {{ form.id_music.label }}:
+            {{ form.id_music(size=32) }}<br>
+            {% for error in form.id_music.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        </div>
+        <div class="column">
+        <p>
+            {{ form.composer.label }}:
+            {{ form.composer(size=32) }}<br>
+            {% for error in form.composer.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.title.label }}:
+            {{ form.title(size=32) }}<br>
+            {% for error in form.title.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+            <p>
+            {{ form.opus_num.label }}:
+            {{ form.opus_num(size=32) }}<br>
+            {% for error in form.opus_num.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+            <p>
+            {{ form.date.label }}:
+            {{ form.date(size=32) }}<br>
+            {% for error in form.date.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+            <p>
+            {{ form.notation_filename.label }}:
+            {{ form.notation_filename(size=32) }}<br>
+            {% for error in form.notation_filename.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+            <p>
+            {{ form.instrumentation.label }}:
+            {{ form.instrumentation(size=32) }}<br>
+            {% for error in form.instrumentation.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        </p>
+
+        <p>{{ form.search() }}</p>
+            {{ table }}
+            <!--
+        <table>
+            <tr>
+                <th> id_music </th>
+                <th> Composer </th>
+                <th> Title </th>
+                <th> Opus Number </th>
+                <th> Date </th>
+                <th> NotationFilename </th>
+                <th> Instrumentation </th>
+            </tr>
+            {% for row in form.results%}
+            <tr>
+                <td>{{ row.id_music }}</td>
+                <td>{{ row.composer }}</td>
+                <td>{{ row.title }}</td>
+                <td>{{ row.opus_num }}</td>
+                <td>{{ row.date }}</td>
+                <td>{{ row.notation_filename }}</td>
+                <td>{{ row.instrumentation }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+-->
+        </div>
+    </form>
+{% endblock %}

@@ -1,3 +1,6 @@
 [submodule "magenta"]
 	path = magenta
 	url = https://github.com/gmkling/magenta.git
+[submodule "pydub"]
+	path = pydub
+	url = https://github.com/jiaaro/pydub.git

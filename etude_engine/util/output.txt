@@ -1,0 +1,399 @@
+Time Signature...meh
+Processed 405 lines.
+[{'track': '0', 'midi_time': '0', 'type': 'header', 'format': '1', 'nTracks': 2, 'division': 220}, {'track': '1', 'midi_time': '0', 'type': 'Start_track'}, {'track': '1', 'midi_time': '0', 'type': 'tempo', 'tempo': 500000}, {'track': '1', 'midi_time': '33469', 'type': 'End_track'}, {'track': '2', 'midi_time': '0', 'type': 'Start_track'}, {'track': '2', 'midi_time': '5407', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '44'}, {'track': '2', 'midi_time': '5449', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '5533', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '48'}, {'track': '2', 'midi_time': '5576', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '5660', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '47'}, {'track': '2', 'midi_time': '5702', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '5787', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '48'}, {'track': '2', 'midi_time': '5829', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '5928', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '46'}, {'track': '2', 'midi_time': '5970', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '6054', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '49'}, {'track': '2', 'midi_time': '6097', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '6181', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '44'}, {'track': '2', 'midi_time': '6220', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '6322', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '50'}, {'track': '2', 'midi_time': '6364', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '6449', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '47'}, {'track': '2', 'midi_time': '6488', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '6589', 'type': 'note_on', 'channel': '0', 'pitch': '52', 'velocity': '44'}, {'track': '2', 'midi_time': '6618', 'type': 'note_off', 'channel': '0', 'pitch': '52', 'velocity': '0'}, {'track': '2', 'midi_time': '6716', 'type': 'note_on', 'channel': '0', 'pitch': '50', 'velocity': '40'}, {'track': '2', 'midi_time': '6743', 'type': 'note_off', 'channel': '0', 'pitch': '50', 'velocity': '0'}, {'track': '2', 'midi_time': '6829', 'type': 'note_on', 'channel': '0', 'pitch': '48', 'velocity': '40'}, {'track': '2', 'midi_time': '6885', 'type': 'note_off', 'channel': '0', 'pitch': '48', 'velocity': '0'}, {'track': '2', 'midi_time': '6956', 'type': 'note_on', 'channel': '0', 'pitch': '50', 'velocity': '42'}, {'track': '2', 'midi_time': '7012', 'type': 'note_off', 'channel': '0', 'pitch': '50', 'velocity': '0'}, {'track': '2', 'midi_time': '7096', 'type': 'note_on', 'channel': '0', 'pitch': '52', 'velocity': '44'}, {'track': '2', 'midi_time': '7139', 'type': 'note_off', 'channel': '0', 'pitch': '52', 'velocity': '0'}, {'track': '2', 'midi_time': '7237', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '39'}, {'track': '2', 'midi_time': '7279', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '7366', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '38'}, {'track': '2', 'midi_time': '7406', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '7491', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '50'}, {'track': '2', 'midi_time': '7535', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '7617', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '54'}, {'track': '2', 'midi_time': '7660', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '7744', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '51'}, {'track': '2', 'midi_time': '7800', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '7871', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '52'}, {'track': '2', 'midi_time': '7927', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '7997', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '57'}, {'track': '2', 'midi_time': '8054', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '8138', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '62'}, {'track': '2', 'midi_time': '8180', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '8265', 'type': 'note_on', 'channel': '0', 'pitch': '67', 'velocity': '64'}, {'track': '2', 'midi_time': '8321', 'type': 'note_off', 'channel': '0', 'pitch': '67', 'velocity': '0'}, {'track': '2', 'midi_time': '8392', 'type': 'note_on', 'channel': '0', 'pitch': '69', 'velocity': '59'}, {'track': '2', 'midi_time': '8462', 'type': 'note_off', 'channel': '0', 'pitch': '69', 'velocity': '0'}, {'track': '2', 'midi_time': '8532', 'type': 'note_on', 'channel': '0', 'pitch': '70', 'velocity': '67'}, {'track': '2', 'midi_time': '8589', 'type': 'note_off', 'channel': '0', 'pitch': '70', 'velocity': '0'}, {'track': '2', 'midi_time': '8659', 'type': 'note_on', 'channel': '0', 'pitch': '69', 'velocity': '67'}, {'track': '2', 'midi_time': '8701', 'type': 'note_off', 'channel': '0', 'pitch': '69', 'velocity': '0'}, {'track': '2', 'midi_time': '8786', 'type': 'note_on', 'channel': '0', 'pitch': '67', 'velocity': '64'}, {'track': '2', 'midi_time': '8828', 'type': 'note_off', 'channel': '0', 'pitch': '67', 'velocity': '0'}, {'track': '2', 'midi_time': '8913', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '63'}, {'track': '2', 'midi_time': '8955', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '9039', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '63'}, {'track': '2', 'midi_time': '9082', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '9166', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '55'}, {'track': '2', 'midi_time': '9208', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '9293', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '54'}, {'track': '2', 'midi_time': '9349', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '9420', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '54'}, {'track': '2', 'midi_time': '9462', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '9546', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '51'}, {'track': '2', 'midi_time': '9603', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '9673', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '45'}, {'track': '2', 'midi_time': '9729', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '9814', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '57'}, {'track': '2', 'midi_time': '9856', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '9940', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '55'}, {'track': '2', 'midi_time': '9983', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '10067', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '51'}, {'track': '2', 'midi_time': '10109', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '10194', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '53'}, {'track': '2', 'midi_time': '10236', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '10334', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '58'}, {'track': '2', 'midi_time': '10381', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '10461', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '53'}, {'track': '2', 'midi_time': '10504', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '10588', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '55'}, {'track': '2', 'midi_time': '10630', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '10715', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '50'}, {'track': '2', 'midi_time': '10771', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '10842', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '45'}, {'track': '2', 'midi_time': '11067', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '11250', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '45'}, {'track': '2', 'midi_time': '11292', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '11377', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '44'}, {'track': '2', 'midi_time': '11419', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '11517', 'type': 'note_on', 'channel': '0', 'pitch': '52', 'velocity': '42'}, {'track': '2', 'midi_time': '11546', 'type': 'note_off', 'channel': '0', 'pitch': '52', 'velocity': '0'}, {'track': '2', 'midi_time': '11658', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '45'}, {'track': '2', 'midi_time': '11686', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '11771', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '47'}, {'track': '2', 'midi_time': '11813', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '11898', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '43'}, {'track': '2', 'midi_time': '11940', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '12024', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '41'}, {'track': '2', 'midi_time': '12067', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '12165', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '46'}, {'track': '2', 'midi_time': '12207', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '12292', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '42'}, {'track': '2', 'midi_time': '12334', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '12419', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '44'}, {'track': '2', 'midi_time': '12461', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '12559', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '46'}, {'track': '2', 'midi_time': '12602', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '12686', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '47'}, {'track': '2', 'midi_time': '12714', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '12827', 'type': 'note_on', 'channel': '0', 'pitch': '52', 'velocity': '46'}, {'track': '2', 'midi_time': '12855', 'type': 'note_off', 'channel': '0', 'pitch': '52', 'velocity': '0'}, {'track': '2', 'midi_time': '12954', 'type': 'note_on', 'channel': '0', 'pitch': '50', 'velocity': '41'}, {'track': '2', 'midi_time': '12982', 'type': 'note_off', 'channel': '0', 'pitch': '50', 'velocity': '0'}, {'track': '2', 'midi_time': '13066', 'type': 'note_on', 'channel': '0', 'pitch': '48', 'velocity': '39'}, {'track': '2', 'midi_time': '13123', 'type': 'note_off', 'channel': '0', 'pitch': '48', 'velocity': '0'}, {'track': '2', 'midi_time': '13207', 'type': 'note_on', 'channel': '0', 'pitch': '50', 'velocity': '44'}, {'track': '2', 'midi_time': '13249', 'type': 'note_off', 'channel': '0', 'pitch': '50', 'velocity': '0'}, {'track': '2', 'midi_time': '13334', 'type': 'note_on', 'channel': '0', 'pitch': '52', 'velocity': '41'}, {'track': '2', 'midi_time': '13376', 'type': 'note_off', 'channel': '0', 'pitch': '52', 'velocity': '0'}, {'track': '2', 'midi_time': '13460', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '47'}, {'track': '2', 'midi_time': '13503', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '13587', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '46'}, {'track': '2', 'midi_time': '13644', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '13728', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '53'}, {'track': '2', 'midi_time': '13770', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '13855', 'type': 'note_on', 'channel': '0', 'pitch': '59', 'velocity': '58'}, {'track': '2', 'midi_time': '13911', 'type': 'note_off', 'channel': '0', 'pitch': '59', 'velocity': '0'}, {'track': '2', 'midi_time': '13981', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '56'}, {'track': '2', 'midi_time': '14038', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '14108', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '56'}, {'track': '2', 'midi_time': '14164', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '14249', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '65'}, {'track': '2', 'midi_time': '14291', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '14376', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '63'}, {'track': '2', 'midi_time': '14418', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '14502', 'type': 'note_on', 'channel': '0', 'pitch': '67', 'velocity': '59'}, {'track': '2', 'midi_time': '14559', 'type': 'note_off', 'channel': '0', 'pitch': '67', 'velocity': '0'}, {'track': '2', 'midi_time': '14629', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '60'}, {'track': '2', 'midi_time': '14700', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '14770', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '64'}, {'track': '2', 'midi_time': '14812', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '14897', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '62'}, {'track': '2', 'midi_time': '14939', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '15023', 'type': 'note_on', 'channel': '0', 'pitch': '59', 'velocity': '58'}, {'track': '2', 'midi_time': '15080', 'type': 'note_off', 'channel': '0', 'pitch': '59', 'velocity': '0'}, {'track': '2', 'midi_time': '15150', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '53'}, {'track': '2', 'midi_time': '15206', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '15277', 'type': 'note_on', 'channel': '0', 'pitch': '67', 'velocity': '55'}, {'track': '2', 'midi_time': '15333', 'type': 'note_off', 'channel': '0', 'pitch': '67', 'velocity': '0'}, {'track': '2', 'midi_time': '15418', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '62'}, {'track': '2', 'midi_time': '15474', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '15544', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '63'}, {'track': '2', 'midi_time': '15601', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '15671', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '58'}, {'track': '2', 'midi_time': '15727', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '15798', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '48'}, {'track': '2', 'midi_time': '15854', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '15924', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '53'}, {'track': '2', 'midi_time': '15981', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '16065', 'type': 'note_on', 'channel': '0', 'pitch': '59', 'velocity': '63'}, {'track': '2', 'midi_time': '16122', 'type': 'note_off', 'channel': '0', 'pitch': '59', 'velocity': '0'}, {'track': '2', 'midi_time': '16192', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '50'}, {'track': '2', 'midi_time': '16234', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '16319', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '55'}, {'track': '2', 'midi_time': '16375', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '16445', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '57'}, {'track': '2', 'midi_time': '16502', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '16572', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '58'}, {'track': '2', 'midi_time': '16628', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '16713', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '64'}, {'track': '2', 'midi_time': '16755', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '16840', 'type': 'note_on', 'channel': '0', 'pitch': '67', 'velocity': '62'}, {'track': '2', 'midi_time': '16882', 'type': 'note_off', 'channel': '0', 'pitch': '67', 'velocity': '0'}, {'track': '2', 'midi_time': '16966', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '60'}, {'track': '2', 'midi_time': '17037', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '17108', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '49'}, {'track': '2', 'midi_time': '17388', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '17952', 'type': 'note_on', 'channel': '0', 'pitch': '70', 'velocity': '61'}, {'track': '2', 'midi_time': '18008', 'type': 'note_off', 'channel': '0', 'pitch': '70', 'velocity': '0'}, {'track': '2', 'midi_time': '18079', 'type': 'note_on', 'channel': '0', 'pitch': '69', 'velocity': '69'}, {'track': '2', 'midi_time': '18135', 'type': 'note_off', 'channel': '0', 'pitch': '69', 'velocity': '0'}, {'track': '2', 'midi_time': '18205', 'type': 'note_on', 'channel': '0', 'pitch': '67', 'velocity': '58'}, {'track': '2', 'midi_time': '18248', 'type': 'note_off', 'channel': '0', 'pitch': '67', 'velocity': '0'}, {'track': '2', 'midi_time': '18332', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '57'}, {'track': '2', 'midi_time': '18388', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '18459', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '58'}, {'track': '2', 'midi_time': '18515', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '18586', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '51'}, {'track': '2', 'midi_time': '18642', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '18726', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '63'}, {'track': '2', 'midi_time': '18783', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '18853', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '54'}, {'track': '2', 'midi_time': '18909', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '18980', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '62'}, {'track': '2', 'midi_time': '19036', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '19107', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '56'}, {'track': '2', 'midi_time': '19163', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '19233', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '52'}, {'track': '2', 'midi_time': '19290', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '19360', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '50'}, {'track': '2', 'midi_time': '19416', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '19487', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '45'}, {'track': '2', 'midi_time': '19557', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '19628', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '54'}, {'track': '2', 'midi_time': '19684', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '19754', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '52'}, {'track': '2', 'midi_time': '19796', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '19895', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '52'}, {'track': '2', 'midi_time': '19937', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '20022', 'type': 'note_on', 'channel': '0', 'pitch': '52', 'velocity': '46'}, {'track': '2', 'midi_time': '20064', 'type': 'note_off', 'channel': '0', 'pitch': '52', 'velocity': '0'}, {'track': '2', 'midi_time': '20148', 'type': 'note_on', 'channel': '0', 'pitch': '50', 'velocity': '43'}, {'track': '2', 'midi_time': '20205', 'type': 'note_off', 'channel': '0', 'pitch': '50', 'velocity': '0'}, {'track': '2', 'midi_time': '20275', 'type': 'note_on', 'channel': '0', 'pitch': '48', 'velocity': '42'}, {'track': '2', 'midi_time': '20332', 'type': 'note_off', 'channel': '0', 'pitch': '48', 'velocity': '0'}, {'track': '2', 'midi_time': '20402', 'type': 'note_on', 'channel': '0', 'pitch': '47', 'velocity': '43'}, {'track': '2', 'midi_time': '20444', 'type': 'note_off', 'channel': '0', 'pitch': '47', 'velocity': '0'}, {'track': '2', 'midi_time': '20543', 'type': 'note_on', 'channel': '0', 'pitch': '48', 'velocity': '45'}, {'track': '2', 'midi_time': '20585', 'type': 'note_off', 'channel': '0', 'pitch': '48', 'velocity': '0'}, {'track': '2', 'midi_time': '20669', 'type': 'note_on', 'channel': '0', 'pitch': '50', 'velocity': '43'}, {'track': '2', 'midi_time': '20712', 'type': 'note_off', 'channel': '0', 'pitch': '50', 'velocity': '0'}, {'track': '2', 'midi_time': '20796', 'type': 'note_on', 'channel': '0', 'pitch': '52', 'velocity': '41'}, {'track': '2', 'midi_time': '20838', 'type': 'note_off', 'channel': '0', 'pitch': '52', 'velocity': '0'}, {'track': '2', 'midi_time': '20923', 'type': 'note_on', 'channel': '0', 'pitch': '48', 'velocity': '46'}, {'track': '2', 'midi_time': '20979', 'type': 'note_off', 'channel': '0', 'pitch': '48', 'velocity': '0'}, {'track': '2', 'midi_time': '21050', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '44'}, {'track': '2', 'midi_time': '21275', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '21500', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '38'}, {'track': '2', 'midi_time': '21542', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '21613', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '45'}, {'track': '2', 'midi_time': '21655', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '21740', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '44'}, {'track': '2', 'midi_time': '21782', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '21880', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '48'}, {'track': '2', 'midi_time': '21923', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '21993', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '43'}, {'track': '2', 'midi_time': '22049', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '22134', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '49'}, {'track': '2', 'midi_time': '22162', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '22246', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '46'}, {'track': '2', 'midi_time': '22303', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '22387', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '56'}, {'track': '2', 'midi_time': '22444', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '22514', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '49'}, {'track': '2', 'midi_time': '22556', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '22641', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '51'}, {'track': '2', 'midi_time': '22683', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '22753', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '44'}, {'track': '2', 'midi_time': '22810', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '22894', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '50'}, {'track': '2', 'midi_time': '22936', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '23021', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '54'}, {'track': '2', 'midi_time': '23063', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '23148', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '48'}, {'track': '2', 'midi_time': '23190', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '23274', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '51'}, {'track': '2', 'midi_time': '23331', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '23387', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '43'}, {'track': '2', 'midi_time': '23443', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '23528', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '51'}, {'track': '2', 'midi_time': '23570', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '23654', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '49'}, {'track': '2', 'midi_time': '23697', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '23781', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '48'}, {'track': '2', 'midi_time': '23823', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '23908', 'type': 'note_on', 'channel': '0', 'pitch': '52', 'velocity': '44'}, {'track': '2', 'midi_time': '23950', 'type': 'note_off', 'channel': '0', 'pitch': '52', 'velocity': '0'}, {'track': '2', 'midi_time': '24035', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '42'}, {'track': '2', 'midi_time': '24091', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '24175', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '53'}, {'track': '2', 'midi_time': '24218', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '24302', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '47'}, {'track': '2', 'midi_time': '24344', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '24429', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '53'}, {'track': '2', 'midi_time': '24485', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '24556', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '56'}, {'track': '2', 'midi_time': '24626', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '24696', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '63'}, {'track': '2', 'midi_time': '24753', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '24823', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '68'}, {'track': '2', 'midi_time': '24893', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '24964', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '63'}, {'track': '2', 'midi_time': '25161', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '25386', 'type': 'note_on', 'channel': '0', 'pitch': '67', 'velocity': '56'}, {'track': '2', 'midi_time': '25443', 'type': 'note_off', 'channel': '0', 'pitch': '67', 'velocity': '0'}, {'track': '2', 'midi_time': '25513', 'type': 'note_on', 'channel': '0', 'pitch': '69', 'velocity': '67'}, {'track': '2', 'midi_time': '25569', 'type': 'note_off', 'channel': '0', 'pitch': '69', 'velocity': '0'}, {'track': '2', 'midi_time': '25640', 'type': 'note_on', 'channel': '0', 'pitch': '70', 'velocity': '65'}, {'track': '2', 'midi_time': '25710', 'type': 'note_off', 'channel': '0', 'pitch': '70', 'velocity': '0'}, {'track': '2', 'midi_time': '25766', 'type': 'note_on', 'channel': '0', 'pitch': '72', 'velocity': '61'}, {'track': '2', 'midi_time': '25823', 'type': 'note_off', 'channel': '0', 'pitch': '72', 'velocity': '0'}, {'track': '2', 'midi_time': '25893', 'type': 'note_on', 'channel': '0', 'pitch': '69', 'velocity': '64'}, {'track': '2', 'midi_time': '25964', 'type': 'note_off', 'channel': '0', 'pitch': '69', 'velocity': '0'}, {'track': '2', 'midi_time': '26020', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '57'}, {'track': '2', 'midi_time': '26076', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '26146', 'type': 'note_on', 'channel': '0', 'pitch': '69', 'velocity': '58'}, {'track': '2', 'midi_time': '26231', 'type': 'note_off', 'channel': '0', 'pitch': '69', 'velocity': '0'}, {'track': '2', 'midi_time': '26287', 'type': 'note_on', 'channel': '0', 'pitch': '70', 'velocity': '62'}, {'track': '2', 'midi_time': '26358', 'type': 'note_off', 'channel': '0', 'pitch': '70', 'velocity': '0'}, {'track': '2', 'midi_time': '26414', 'type': 'note_on', 'channel': '0', 'pitch': '72', 'velocity': '58'}, {'track': '2', 'midi_time': '26497', 'type': 'note_off', 'channel': '0', 'pitch': '72', 'velocity': '0'}, {'track': '2', 'midi_time': '26541', 'type': 'note_on', 'channel': '0', 'pitch': '74', 'velocity': '58'}, {'track': '2', 'midi_time': '26634', 'type': 'note_off', 'channel': '0', 'pitch': '74', 'velocity': '0'}, {'track': '2', 'midi_time': '26682', 'type': 'note_on', 'channel': '0', 'pitch': '72', 'velocity': '65'}, {'track': '2', 'midi_time': '26724', 'type': 'note_off', 'channel': '0', 'pitch': '72', 'velocity': '0'}, {'track': '2', 'midi_time': '26808', 'type': 'note_on', 'channel': '0', 'pitch': '70', 'velocity': '67'}, {'track': '2', 'midi_time': '26851', 'type': 'note_off', 'channel': '0', 'pitch': '70', 'velocity': '0'}, {'track': '2', 'midi_time': '26935', 'type': 'note_on', 'channel': '0', 'pitch': '69', 'velocity': '63'}, {'track': '2', 'midi_time': '26991', 'type': 'note_off', 'channel': '0', 'pitch': '69', 'velocity': '0'}, {'track': '2', 'midi_time': '27062', 'type': 'note_on', 'channel': '0', 'pitch': '67', 'velocity': '60'}, {'track': '2', 'midi_time': '27118', 'type': 'note_off', 'channel': '0', 'pitch': '67', 'velocity': '0'}, {'track': '2', 'midi_time': '27188', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '59'}, {'track': '2', 'midi_time': '27245', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '27315', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '59'}, {'track': '2', 'midi_time': '27372', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '27442', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '50'}, {'track': '2', 'midi_time': '27512', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '27583', 'type': 'note_on', 'channel': '0', 'pitch': '67', 'velocity': '63'}, {'track': '2', 'midi_time': '27639', 'type': 'note_off', 'channel': '0', 'pitch': '67', 'velocity': '0'}, {'track': '2', 'midi_time': '27695', 'type': 'note_on', 'channel': '0', 'pitch': '69', 'velocity': '54'}, {'track': '2', 'midi_time': '27780', 'type': 'note_off', 'channel': '0', 'pitch': '69', 'velocity': '0'}, {'track': '2', 'midi_time': '27836', 'type': 'note_on', 'channel': '0', 'pitch': '70', 'velocity': '62'}, {'track': '2', 'midi_time': '27892', 'type': 'note_off', 'channel': '0', 'pitch': '70', 'velocity': '0'}, {'track': '2', 'midi_time': '27949', 'type': 'note_on', 'channel': '0', 'pitch': '69', 'velocity': '56'}, {'track': '2', 'midi_time': '28019', 'type': 'note_off', 'channel': '0', 'pitch': '69', 'velocity': '0'}, {'track': '2', 'midi_time': '28076', 'type': 'note_on', 'channel': '0', 'pitch': '67', 'velocity': '51'}, {'track': '2', 'midi_time': '28146', 'type': 'note_off', 'channel': '0', 'pitch': '67', 'velocity': '0'}, {'track': '2', 'midi_time': '28216', 'type': 'note_on', 'channel': '0', 'pitch': '65', 'velocity': '60'}, {'track': '2', 'midi_time': '28273', 'type': 'note_off', 'channel': '0', 'pitch': '65', 'velocity': '0'}, {'track': '2', 'midi_time': '28343', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '67'}, {'track': '2', 'midi_time': '28385', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '28456', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '50'}, {'track': '2', 'midi_time': '28512', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '28582', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '54'}, {'track': '2', 'midi_time': '28639', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '28709', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '47'}, {'track': '2', 'midi_time': '28765', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '28850', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '53'}, {'track': '2', 'midi_time': '28892', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '28977', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '56'}, {'track': '2', 'midi_time': '29019', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '29103', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '59'}, {'track': '2', 'midi_time': '29160', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '29216', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '52'}, {'track': '2', 'midi_time': '29272', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '29343', 'type': 'note_on', 'channel': '0', 'pitch': '64', 'velocity': '52'}, {'track': '2', 'midi_time': '29399', 'type': 'note_off', 'channel': '0', 'pitch': '64', 'velocity': '0'}, {'track': '2', 'midi_time': '29469', 'type': 'note_on', 'channel': '0', 'pitch': '62', 'velocity': '50'}, {'track': '2', 'midi_time': '29526', 'type': 'note_off', 'channel': '0', 'pitch': '62', 'velocity': '0'}, {'track': '2', 'midi_time': '29596', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '51'}, {'track': '2', 'midi_time': '29652', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '29723', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '49'}, {'track': '2', 'midi_time': '29779', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '29864', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '51'}, {'track': '2', 'midi_time': '29906', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '29963', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '47'}, {'track': '2', 'midi_time': '30019', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '30117', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '48'}, {'track': '2', 'midi_time': '30159', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '30244', 'type': 'note_on', 'channel': '0', 'pitch': '52', 'velocity': '49'}, {'track': '2', 'midi_time': '30272', 'type': 'note_off', 'channel': '0', 'pitch': '52', 'velocity': '0'}, {'track': '2', 'midi_time': '30371', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '47'}, {'track': '2', 'midi_time': '30413', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '30498', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '49'}, {'track': '2', 'midi_time': '30540', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '30624', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '49'}, {'track': '2', 'midi_time': '30666', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '30737', 'type': 'note_on', 'channel': '0', 'pitch': '58', 'velocity': '44'}, {'track': '2', 'midi_time': '30807', 'type': 'note_off', 'channel': '0', 'pitch': '58', 'velocity': '0'}, {'track': '2', 'midi_time': '30877', 'type': 'note_on', 'channel': '0', 'pitch': '60', 'velocity': '52'}, {'track': '2', 'midi_time': '30920', 'type': 'note_off', 'channel': '0', 'pitch': '60', 'velocity': '0'}, {'track': '2', 'midi_time': '30990', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '47'}, {'track': '2', 'midi_time': '31060', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '31131', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '40'}, {'track': '2', 'midi_time': '31300', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '31553', 'type': 'note_on', 'channel': '0', 'pitch': '57', 'velocity': '48'}, {'track': '2', 'midi_time': '31596', 'type': 'note_off', 'channel': '0', 'pitch': '57', 'velocity': '0'}, {'track': '2', 'midi_time': '31680', 'type': 'note_on', 'channel': '0', 'pitch': '55', 'velocity': '49'}, {'track': '2', 'midi_time': '31722', 'type': 'note_off', 'channel': '0', 'pitch': '55', 'velocity': '0'}, {'track': '2', 'midi_time': '31807', 'type': 'note_on', 'channel': '0', 'pitch': '53', 'velocity': '47'}, {'track': '2', 'midi_time': '31849', 'type': 'note_off', 'channel': '0', 'pitch': '53', 'velocity': '0'}, {'track': '2', 'midi_time': '31933', 'type': 'note_on', 'channel': '0', 'pitch': '52', 'velocity': '44'}, {'track': '2', 'midi_time': '31976', 'type': 'note_off', 'channel': '0', 'pitch': '52', 'velocity': '0'}, {'track': '2', 'midi_time': '32060', 'type': 'note_on', 'channel': '0', 'pitch': '50', 'velocity': '47'}, {'track': '2', 'midi_time': '32102', 'type': 'note_off', 'channel': '0', 'pitch': '50', 'velocity': '0'}, {'track': '2', 'midi_time': '32187', 'type': 'note_on', 'channel': '0', 'pitch': '48', 'velocity': '44'}, {'track': '2', 'midi_time': '32243', 'type': 'note_off', 'channel': '0', 'pitch': '48', 'velocity': '0'}, {'track': '2', 'midi_time': '32314', 'type': 'note_on', 'channel': '0', 'pitch': '46', 'velocity': '46'}, {'track': '2', 'midi_time': '32370', 'type': 'note_off', 'channel': '0', 'pitch': '46', 'velocity': '0'}, {'track': '2', 'midi_time': '32440', 'type': 'note_on', 'channel': '0', 'pitch': '45', 'velocity': '44'}, {'track': '2', 'midi_time': '32497', 'type': 'note_off', 'channel': '0', 'pitch': '45', 'velocity': '0'}, {'track': '2', 'midi_time': '32561', 'type': 'note_on', 'channel': '0', 'pitch': '43', 'velocity': '44'}, {'track': '2', 'midi_time': '32637', 'type': 'note_off', 'channel': '0', 'pitch': '43', 'velocity': '0'}, {'track': '2', 'midi_time': '32736', 'type': 'note_on', 'channel': '0', 'pitch': '41', 'velocity': '33'}, {'track': '2', 'midi_time': '33440', 'type': 'note_off', 'channel': '0', 'pitch': '41', 'velocity': '0'}, {'track': '2', 'midi_time': '33469', 'type': 'End_track'}]
+{'event_ID': 5, 'pitch': '53', 'start_time': 12.288636363636364, 'end_time': 12.574999999999998}
+1
+{'event_ID': 7, 'pitch': '55', 'start_time': 12.574999999999998, 'end_time': 12.863636363636363}
+2
+{'event_ID': 9, 'pitch': '57', 'start_time': 12.863636363636363, 'end_time': 13.152272727272727}
+3
+{'event_ID': 11, 'pitch': '58', 'start_time': 13.152272727272727, 'end_time': 13.47272727272727}
+4
+{'event_ID': 13, 'pitch': '60', 'start_time': 13.47272727272727, 'end_time': 13.759090909090908}
+5
+{'event_ID': 15, 'pitch': '58', 'start_time': 13.759090909090908, 'end_time': 14.047727272727272}
+6
+{'event_ID': 17, 'pitch': '57', 'start_time': 14.047727272727272, 'end_time': 14.368181818181817}
+7
+{'event_ID': 19, 'pitch': '55', 'start_time': 14.368181818181817, 'end_time': 14.65681818181818}
+8
+{'event_ID': 21, 'pitch': '53', 'start_time': 14.65681818181818, 'end_time': 14.974999999999998}
+9
+{'event_ID': 23, 'pitch': '52', 'start_time': 14.974999999999998, 'end_time': 15.263636363636362}
+10
+{'event_ID': 25, 'pitch': '50', 'start_time': 15.263636363636362, 'end_time': 15.520454545454545}
+11
+{'event_ID': 27, 'pitch': '48', 'start_time': 15.520454545454545, 'end_time': 15.809090909090909}
+12
+{'event_ID': 29, 'pitch': '50', 'start_time': 15.809090909090909, 'end_time': 16.127272727272725}
+13
+{'event_ID': 31, 'pitch': '52', 'start_time': 16.127272727272725, 'end_time': 16.44772727272727}
+14
+{'event_ID': 33, 'pitch': '53', 'start_time': 16.44772727272727, 'end_time': 16.74090909090909}
+15
+{'event_ID': 35, 'pitch': '55', 'start_time': 16.74090909090909, 'end_time': 17.025}
+16
+{'event_ID': 37, 'pitch': '57', 'start_time': 17.025, 'end_time': 17.311363636363634}
+17
+{'event_ID': 39, 'pitch': '58', 'start_time': 17.311363636363634, 'end_time': 17.6}
+18
+{'event_ID': 41, 'pitch': '60', 'start_time': 17.6, 'end_time': 17.888636363636362}
+19
+{'event_ID': 43, 'pitch': '62', 'start_time': 17.888636363636362, 'end_time': 18.175}
+20
+{'event_ID': 45, 'pitch': '64', 'start_time': 18.175, 'end_time': 18.495454545454542}
+21
+{'event_ID': 47, 'pitch': '65', 'start_time': 18.495454545454542, 'end_time': 18.784090909090907}
+22
+{'event_ID': 49, 'pitch': '67', 'start_time': 18.784090909090907, 'end_time': 19.07272727272727}
+23
+{'event_ID': 51, 'pitch': '69', 'start_time': 19.07272727272727, 'end_time': 19.39090909090909}
+24
+{'event_ID': 53, 'pitch': '70', 'start_time': 19.39090909090909, 'end_time': 19.679545454545455}
+25
+{'event_ID': 55, 'pitch': '69', 'start_time': 19.679545454545455, 'end_time': 19.968181818181815}
+26
+{'event_ID': 57, 'pitch': '67', 'start_time': 19.968181818181815, 'end_time': 20.25681818181818}
+27
+{'event_ID': 59, 'pitch': '65', 'start_time': 20.25681818181818, 'end_time': 20.543181818181818}
+28
+{'event_ID': 61, 'pitch': '64', 'start_time': 20.543181818181818, 'end_time': 20.83181818181818}
+29
+{'event_ID': 63, 'pitch': '62', 'start_time': 20.83181818181818, 'end_time': 21.120454545454542}
+30
+{'event_ID': 65, 'pitch': '60', 'start_time': 21.120454545454542, 'end_time': 21.409090909090907}
+31
+{'event_ID': 67, 'pitch': '62', 'start_time': 21.409090909090907, 'end_time': 21.69545454545454}
+32
+{'event_ID': 69, 'pitch': '60', 'start_time': 21.69545454545454, 'end_time': 21.984090909090906}
+33
+{'event_ID': 71, 'pitch': '58', 'start_time': 21.984090909090906, 'end_time': 22.304545454545455}
+34
+{'event_ID': 73, 'pitch': '57', 'start_time': 22.304545454545455, 'end_time': 22.59090909090909}
+35
+{'event_ID': 75, 'pitch': '55', 'start_time': 22.59090909090909, 'end_time': 22.879545454545454}
+36
+{'event_ID': 77, 'pitch': '53', 'start_time': 22.879545454545454, 'end_time': 23.168181818181818}
+37
+{'event_ID': 79, 'pitch': '57', 'start_time': 23.168181818181818, 'end_time': 23.486363636363635}
+38
+{'event_ID': 81, 'pitch': '60', 'start_time': 23.486363636363635, 'end_time': 23.774999999999995}
+39
+{'event_ID': 83, 'pitch': '65', 'start_time': 23.774999999999995, 'end_time': 24.063636363636363}
+40
+{'event_ID': 85, 'pitch': '62', 'start_time': 24.063636363636363, 'end_time': 24.352272727272727}
+41
+{'event_ID': 87, 'pitch': '58', 'start_time': 24.352272727272727, 'end_time': 24.64090909090909}
+42
+{'event_ID': 89, 'pitch': '60', 'start_time': 24.64090909090909, 'end_time': 25.568181818181817}
+43
+{'event_ID': 91, 'pitch': '58', 'start_time': 25.568181818181817, 'end_time': 25.85681818181818}
+44
+{'event_ID': 93, 'pitch': '55', 'start_time': 25.85681818181818, 'end_time': 26.174999999999997}
+45
+{'event_ID': 95, 'pitch': '52', 'start_time': 26.174999999999997, 'end_time': 26.495454545454542}
+46
+{'event_ID': 97, 'pitch': '53', 'start_time': 26.495454545454542, 'end_time': 26.752272727272725}
+47
+{'event_ID': 99, 'pitch': '55', 'start_time': 26.752272727272725, 'end_time': 27.04090909090909}
+48
+{'event_ID': 101, 'pitch': '57', 'start_time': 27.04090909090909, 'end_time': 27.327272727272728}
+49
+{'event_ID': 103, 'pitch': '58', 'start_time': 27.327272727272728, 'end_time': 27.64772727272727}
+50
+{'event_ID': 105, 'pitch': '60', 'start_time': 27.64772727272727, 'end_time': 27.936363636363634}
+51
+{'event_ID': 107, 'pitch': '58', 'start_time': 27.936363636363634, 'end_time': 28.224999999999998}
+52
+{'event_ID': 109, 'pitch': '57', 'start_time': 28.224999999999998, 'end_time': 28.543181818181818}
+53
+{'event_ID': 111, 'pitch': '55', 'start_time': 28.543181818181818, 'end_time': 28.83181818181818}
+54
+{'event_ID': 113, 'pitch': '53', 'start_time': 28.83181818181818, 'end_time': 29.152272727272724}
+55
+{'event_ID': 115, 'pitch': '52', 'start_time': 29.152272727272724, 'end_time': 29.44090909090909}
+56
+{'event_ID': 117, 'pitch': '50', 'start_time': 29.44090909090909, 'end_time': 29.69545454545454}
+57
+{'event_ID': 119, 'pitch': '48', 'start_time': 29.69545454545454, 'end_time': 30.01590909090909}
+58
+{'event_ID': 121, 'pitch': '50', 'start_time': 30.01590909090909, 'end_time': 30.304545454545455}
+59
+{'event_ID': 123, 'pitch': '52', 'start_time': 30.304545454545455, 'end_time': 30.59090909090909}
+60
+{'event_ID': 125, 'pitch': '53', 'start_time': 30.59090909090909, 'end_time': 30.879545454545454}
+61
+{'event_ID': 127, 'pitch': '55', 'start_time': 30.879545454545454, 'end_time': 31.199999999999996}
+62
+{'event_ID': 129, 'pitch': '57', 'start_time': 31.199999999999996, 'end_time': 31.48863636363636}
+63
+{'event_ID': 131, 'pitch': '59', 'start_time': 31.48863636363636, 'end_time': 31.774999999999995}
+64
+{'event_ID': 133, 'pitch': '60', 'start_time': 31.774999999999995, 'end_time': 32.06363636363636}
+65
+{'event_ID': 135, 'pitch': '62', 'start_time': 32.06363636363636, 'end_time': 32.38409090909091}
+66
+{'event_ID': 137, 'pitch': '64', 'start_time': 32.38409090909091, 'end_time': 32.67272727272727}
+67
+{'event_ID': 139, 'pitch': '65', 'start_time': 32.67272727272727, 'end_time': 32.959090909090904}
+68
+{'event_ID': 141, 'pitch': '67', 'start_time': 32.959090909090904, 'end_time': 33.24772727272727}
+69
+{'event_ID': 143, 'pitch': '64', 'start_time': 33.24772727272727, 'end_time': 33.56818181818181}
+70
+{'event_ID': 145, 'pitch': '65', 'start_time': 33.56818181818181, 'end_time': 33.85681818181818}
+71
+{'event_ID': 147, 'pitch': '62', 'start_time': 33.85681818181818, 'end_time': 34.143181818181816}
+72
+{'event_ID': 149, 'pitch': '59', 'start_time': 34.143181818181816, 'end_time': 34.43181818181818}
+73
+{'event_ID': 151, 'pitch': '62', 'start_time': 34.43181818181818, 'end_time': 34.72045454545454}
+74
+{'event_ID': 153, 'pitch': '67', 'start_time': 34.72045454545454, 'end_time': 35.04090909090909}
+75
+{'event_ID': 155, 'pitch': '65', 'start_time': 35.04090909090909, 'end_time': 35.32727272727273}
+76
+{'event_ID': 157, 'pitch': '64', 'start_time': 35.32727272727273, 'end_time': 35.615909090909085}
+77
+{'event_ID': 159, 'pitch': '60', 'start_time': 35.615909090909085, 'end_time': 35.904545454545456}
+78
+{'event_ID': 161, 'pitch': '57', 'start_time': 35.904545454545456, 'end_time': 36.19090909090909}
+79
+{'event_ID': 163, 'pitch': '62', 'start_time': 36.19090909090909, 'end_time': 36.51136363636363}
+80
+{'event_ID': 165, 'pitch': '59', 'start_time': 36.51136363636363, 'end_time': 36.8}
+81
+{'event_ID': 167, 'pitch': '55', 'start_time': 36.8, 'end_time': 37.08863636363636}
+82
+{'event_ID': 169, 'pitch': '60', 'start_time': 37.08863636363636, 'end_time': 37.375}
+83
+{'event_ID': 171, 'pitch': '62', 'start_time': 37.375, 'end_time': 37.66363636363636}
+84
+{'event_ID': 173, 'pitch': '64', 'start_time': 37.66363636363636, 'end_time': 37.98409090909091}
+85
+{'event_ID': 175, 'pitch': '65', 'start_time': 37.98409090909091, 'end_time': 38.272727272727266}
+86
+{'event_ID': 177, 'pitch': '67', 'start_time': 38.272727272727266, 'end_time': 38.559090909090905}
+87
+{'event_ID': 179, 'pitch': '64', 'start_time': 38.559090909090905, 'end_time': 38.88181818181818}
+88
+{'event_ID': 181, 'pitch': '60', 'start_time': 38.88181818181818, 'end_time': 40.8}
+89
+{'event_ID': 183, 'pitch': '70', 'start_time': 40.8, 'end_time': 41.08863636363636}
+90
+{'event_ID': 185, 'pitch': '69', 'start_time': 41.08863636363636, 'end_time': 41.37499999999999}
+91
+{'event_ID': 187, 'pitch': '67', 'start_time': 41.37499999999999, 'end_time': 41.66363636363636}
+92
+{'event_ID': 189, 'pitch': '65', 'start_time': 41.66363636363636, 'end_time': 41.95227272727273}
+93
+{'event_ID': 191, 'pitch': '64', 'start_time': 41.95227272727273, 'end_time': 42.240909090909085}
+94
+{'event_ID': 193, 'pitch': '62', 'start_time': 42.240909090909085, 'end_time': 42.559090909090905}
+95
+{'event_ID': 195, 'pitch': '60', 'start_time': 42.559090909090905, 'end_time': 42.84772727272727}
+96
+{'event_ID': 197, 'pitch': '62', 'start_time': 42.84772727272727, 'end_time': 43.13636363636363}
+97
+{'event_ID': 199, 'pitch': '60', 'start_time': 43.13636363636363, 'end_time': 43.42499999999999}
+98
+{'event_ID': 201, 'pitch': '58', 'start_time': 43.42499999999999, 'end_time': 43.711363636363636}
+99
+{'event_ID': 203, 'pitch': '57', 'start_time': 43.711363636363636, 'end_time': 43.99999999999999}
+100
+{'event_ID': 205, 'pitch': '55', 'start_time': 43.99999999999999, 'end_time': 44.28863636363636}
+101
+{'event_ID': 207, 'pitch': '58', 'start_time': 44.28863636363636, 'end_time': 44.60909090909091}
+102
+{'event_ID': 209, 'pitch': '57', 'start_time': 44.60909090909091, 'end_time': 44.89545454545454}
+103
+{'event_ID': 211, 'pitch': '55', 'start_time': 44.89545454545454, 'end_time': 45.215909090909086}
+104
+{'event_ID': 213, 'pitch': '53', 'start_time': 45.215909090909086, 'end_time': 45.50454545454545}
+105
+{'event_ID': 215, 'pitch': '52', 'start_time': 45.50454545454545, 'end_time': 45.79090909090909}
+106
+{'event_ID': 217, 'pitch': '50', 'start_time': 45.79090909090909, 'end_time': 46.07954545454545}
+107
+{'event_ID': 219, 'pitch': '48', 'start_time': 46.07954545454545, 'end_time': 46.36818181818181}
+108
+{'event_ID': 221, 'pitch': '47', 'start_time': 46.36818181818181, 'end_time': 46.68863636363636}
+109
+{'event_ID': 223, 'pitch': '48', 'start_time': 46.68863636363636, 'end_time': 46.974999999999994}
+110
+{'event_ID': 225, 'pitch': '50', 'start_time': 46.974999999999994, 'end_time': 47.26363636363636}
+111
+{'event_ID': 227, 'pitch': '52', 'start_time': 47.26363636363636, 'end_time': 47.55227272727273}
+112
+{'event_ID': 229, 'pitch': '48', 'start_time': 47.55227272727273, 'end_time': 47.840909090909086}
+113
+{'event_ID': 231, 'pitch': '53', 'start_time': 47.840909090909086, 'end_time': 48.86363636363636}
+114
+{'event_ID': 233, 'pitch': '55', 'start_time': 48.86363636363636, 'end_time': 49.12045454545454}
+115
+{'event_ID': 235, 'pitch': '57', 'start_time': 49.12045454545454, 'end_time': 49.40909090909091}
+116
+{'event_ID': 237, 'pitch': '58', 'start_time': 49.40909090909091, 'end_time': 49.72727272727272}
+117
+{'event_ID': 239, 'pitch': '60', 'start_time': 49.72727272727272, 'end_time': 49.98409090909091}
+118
+{'event_ID': 241, 'pitch': '57', 'start_time': 49.98409090909091, 'end_time': 50.304545454545455}
+119
+{'event_ID': 243, 'pitch': '53', 'start_time': 50.304545454545455, 'end_time': 50.559090909090905}
+120
+{'event_ID': 245, 'pitch': '57', 'start_time': 50.559090909090905, 'end_time': 50.87954545454545}
+121
+{'event_ID': 247, 'pitch': '60', 'start_time': 50.87954545454545, 'end_time': 51.168181818181814}
+122
+{'event_ID': 249, 'pitch': '65', 'start_time': 51.168181818181814, 'end_time': 51.45681818181818}
+123
+{'event_ID': 251, 'pitch': '62', 'start_time': 51.45681818181818, 'end_time': 51.711363636363636}
+124
+{'event_ID': 253, 'pitch': '58', 'start_time': 51.711363636363636, 'end_time': 52.03181818181818}
+125
+{'event_ID': 255, 'pitch': '53', 'start_time': 52.03181818181818, 'end_time': 52.32045454545454}
+126
+{'event_ID': 257, 'pitch': '58', 'start_time': 52.32045454545454, 'end_time': 52.60909090909091}
+127
+{'event_ID': 259, 'pitch': '62', 'start_time': 52.60909090909091, 'end_time': 52.89545454545454}
+128
+{'event_ID': 261, 'pitch': '60', 'start_time': 52.89545454545454, 'end_time': 53.15227272727272}
+129
+{'event_ID': 263, 'pitch': '58', 'start_time': 53.15227272727272, 'end_time': 53.47272727272727}
+130
+{'event_ID': 265, 'pitch': '57', 'start_time': 53.47272727272727, 'end_time': 53.75909090909091}
+131
+{'event_ID': 267, 'pitch': '55', 'start_time': 53.75909090909091, 'end_time': 54.047727272727265}
+132
+{'event_ID': 269, 'pitch': '53', 'start_time': 54.047727272727265, 'end_time': 54.336363636363636}
+133
+{'event_ID': 271, 'pitch': '52', 'start_time': 54.336363636363636, 'end_time': 54.62499999999999}
+134
+{'event_ID': 273, 'pitch': '53', 'start_time': 54.62499999999999, 'end_time': 54.94318181818181}
+135
+{'event_ID': 275, 'pitch': '55', 'start_time': 54.94318181818181, 'end_time': 55.23181818181818}
+136
+{'event_ID': 277, 'pitch': '57', 'start_time': 55.23181818181818, 'end_time': 55.52045454545454}
+137
+{'event_ID': 279, 'pitch': '58', 'start_time': 55.52045454545454, 'end_time': 55.809090909090905}
+138
+{'event_ID': 281, 'pitch': '60', 'start_time': 55.809090909090905, 'end_time': 56.12727272727272}
+139
+{'event_ID': 283, 'pitch': '62', 'start_time': 56.12727272727272, 'end_time': 56.41590909090909}
+140
+{'event_ID': 285, 'pitch': '64', 'start_time': 56.41590909090909, 'end_time': 56.736363636363635}
+141
+{'event_ID': 287, 'pitch': '65', 'start_time': 56.736363636363635, 'end_time': 57.69545454545454}
+142
+{'event_ID': 289, 'pitch': '67', 'start_time': 57.69545454545454, 'end_time': 57.98409090909091}
+143
+{'event_ID': 291, 'pitch': '69', 'start_time': 57.98409090909091, 'end_time': 58.272727272727266}
+144
+{'event_ID': 293, 'pitch': '70', 'start_time': 58.272727272727266, 'end_time': 58.559090909090905}
+145
+{'event_ID': 295, 'pitch': '72', 'start_time': 58.559090909090905, 'end_time': 58.84772727272727}
+146
+{'event_ID': 297, 'pitch': '69', 'start_time': 58.84772727272727, 'end_time': 59.13636363636363}
+147
+{'event_ID': 299, 'pitch': '65', 'start_time': 59.13636363636363, 'end_time': 59.422727272727265}
+148
+{'event_ID': 301, 'pitch': '69', 'start_time': 59.422727272727265, 'end_time': 59.74318181818181}
+149
+{'event_ID': 303, 'pitch': '70', 'start_time': 59.74318181818181, 'end_time': 60.03181818181818}
+150
+{'event_ID': 305, 'pitch': '72', 'start_time': 60.03181818181818, 'end_time': 60.32045454545454}
+151
+{'event_ID': 307, 'pitch': '74', 'start_time': 60.32045454545454, 'end_time': 60.64090909090908}
+152
+{'event_ID': 309, 'pitch': '72', 'start_time': 60.64090909090908, 'end_time': 60.92727272727272}
+153
+{'event_ID': 311, 'pitch': '70', 'start_time': 60.92727272727272, 'end_time': 61.215909090909086}
+154
+{'event_ID': 313, 'pitch': '69', 'start_time': 61.215909090909086, 'end_time': 61.50454545454544}
+155
+{'event_ID': 315, 'pitch': '67', 'start_time': 61.50454545454544, 'end_time': 61.79090909090909}
+156
+{'event_ID': 317, 'pitch': '65', 'start_time': 61.79090909090909, 'end_time': 62.079545454545446}
+157
+{'event_ID': 319, 'pitch': '64', 'start_time': 62.079545454545446, 'end_time': 62.36818181818181}
+158
+{'event_ID': 321, 'pitch': '65', 'start_time': 62.36818181818181, 'end_time': 62.68863636363636}
+159
+{'event_ID': 323, 'pitch': '67', 'start_time': 62.68863636363636, 'end_time': 62.94318181818181}
+160
+{'event_ID': 325, 'pitch': '69', 'start_time': 62.94318181818181, 'end_time': 63.26363636363636}
+161
+{'event_ID': 327, 'pitch': '70', 'start_time': 63.26363636363636, 'end_time': 63.52045454545454}
+162
+{'event_ID': 329, 'pitch': '69', 'start_time': 63.52045454545454, 'end_time': 63.809090909090905}
+163
+{'event_ID': 331, 'pitch': '67', 'start_time': 63.809090909090905, 'end_time': 64.12727272727273}
+164
+{'event_ID': 333, 'pitch': '65', 'start_time': 64.12727272727273, 'end_time': 64.41590909090908}
+165
+{'event_ID': 335, 'pitch': '64', 'start_time': 64.41590909090908, 'end_time': 64.67272727272727}
+166
+{'event_ID': 337, 'pitch': '62', 'start_time': 64.67272727272727, 'end_time': 64.9590909090909}
+167
+{'event_ID': 339, 'pitch': '60', 'start_time': 64.9590909090909, 'end_time': 65.24772727272726}
+168
+{'event_ID': 341, 'pitch': '58', 'start_time': 65.24772727272726, 'end_time': 65.56818181818181}
+169
+{'event_ID': 343, 'pitch': '57', 'start_time': 65.56818181818181, 'end_time': 65.85681818181817}
+170
+{'event_ID': 345, 'pitch': '58', 'start_time': 65.85681818181817, 'end_time': 66.14318181818182}
+171
+{'event_ID': 347, 'pitch': '60', 'start_time': 66.14318181818182, 'end_time': 66.39999999999999}
+172
+{'event_ID': 349, 'pitch': '62', 'start_time': 66.39999999999999, 'end_time': 66.68863636363636}
+173
+{'event_ID': 351, 'pitch': '64', 'start_time': 66.68863636363636, 'end_time': 66.975}
+174
+{'event_ID': 353, 'pitch': '62', 'start_time': 66.975, 'end_time': 67.26363636363637}
+175
+{'event_ID': 355, 'pitch': '60', 'start_time': 67.26363636363637, 'end_time': 67.55227272727272}
+176
+{'event_ID': 357, 'pitch': '58', 'start_time': 67.55227272727272, 'end_time': 67.87272727272726}
+177
+{'event_ID': 359, 'pitch': '57', 'start_time': 67.87272727272726, 'end_time': 68.09772727272727}
+178
+{'event_ID': 361, 'pitch': '55', 'start_time': 68.09772727272727, 'end_time': 68.44772727272726}
+179
+{'event_ID': 363, 'pitch': '53', 'start_time': 68.44772727272726, 'end_time': 68.73636363636362}
+180
+{'event_ID': 365, 'pitch': '52', 'start_time': 68.73636363636362, 'end_time': 69.025}
+181
+{'event_ID': 367, 'pitch': '53', 'start_time': 69.025, 'end_time': 69.31363636363636}
+182
+{'event_ID': 369, 'pitch': '55', 'start_time': 69.31363636363636, 'end_time': 69.6}
+183
+{'event_ID': 371, 'pitch': '57', 'start_time': 69.6, 'end_time': 69.85681818181817}
+184
+{'event_ID': 373, 'pitch': '58', 'start_time': 69.85681818181817, 'end_time': 70.175}
+185
+{'event_ID': 375, 'pitch': '60', 'start_time': 70.175, 'end_time': 70.43181818181817}
+186
+{'event_ID': 377, 'pitch': '57', 'start_time': 70.43181818181817, 'end_time': 70.75227272727273}
+187
+{'event_ID': 379, 'pitch': '53', 'start_time': 70.75227272727273, 'end_time': 71.71136363636363}
+188
+{'event_ID': 381, 'pitch': '57', 'start_time': 71.71136363636363, 'end_time': 72.0}
+189
+{'event_ID': 383, 'pitch': '55', 'start_time': 72.0, 'end_time': 72.28863636363636}
+190
+{'event_ID': 385, 'pitch': '53', 'start_time': 72.28863636363636, 'end_time': 72.575}
+191
+{'event_ID': 387, 'pitch': '52', 'start_time': 72.575, 'end_time': 72.86363636363636}
+192
+{'event_ID': 389, 'pitch': '50', 'start_time': 72.86363636363636, 'end_time': 73.15227272727272}
+193
+{'event_ID': 391, 'pitch': '48', 'start_time': 73.15227272727272, 'end_time': 73.44090909090907}
+194
+{'event_ID': 393, 'pitch': '46', 'start_time': 73.44090909090907, 'end_time': 73.72727272727272}
+195
+{'event_ID': 395, 'pitch': '45', 'start_time': 73.72727272727272, 'end_time': 74.00227272727273}
+196
+{'event_ID': 397, 'pitch': '43', 'start_time': 74.00227272727273, 'end_time': 74.4}
+197
+{'event_ID': 399, 'pitch': '41', 'start_time': 74.4, 'end_time': 76.0}
+198

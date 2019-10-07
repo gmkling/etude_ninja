@@ -22,6 +22,8 @@ Currently, there are not many targets that I know of for audio datasets of tradi
 1: Step executed for each dataset, custom
 2: Annotations provided by user
 3: Decomp can be custom tool, or the onsets_frames_transcription tool -> midifile -> tool to split
+    - Find way to get tool to output protobuf data
+    - Load it directly instead of MIDI and get cooking
 4: Custom tools
 
 5 and 6 discussion:

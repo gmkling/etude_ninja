@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/etude_engine/magenta" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libsndfile" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/magenta" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pydub" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/magenta" vcs="Git" />

@@ -14,7 +14,7 @@ The purpose of this collection of tools is formalize one approach to creating an
 
 - Individual instruments are recorded alone playing etudes
 - onset_frames_transcription from Magenta suggests segment points for notes.
-- Flask webpages are used to create simple UIs for curators
-- Mysql is used to store data
-- libsndfile is used to embed markers and annotations
-- pydub is used for python audio utilities
+- Curators/Annotators use Flask webpages to add metadata 
+- Mysql is used to manage data
+- libsndfile is used to embed markers and annotations in audio files
+- pydub is used for python audio processing

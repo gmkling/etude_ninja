@@ -4,6 +4,3 @@
 [submodule "pydub"]
 	path = pydub
 	url = https://github.com/jiaaro/pydub.git
-[submodule "libsndfile"]
-	path = libsndfile
-	url = https://github.com/erikd/libsndfile

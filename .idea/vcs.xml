@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/libsndfile" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/magenta" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pydub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pysndfile" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/magenta" vcs="Git" />
   </component>
 </project>

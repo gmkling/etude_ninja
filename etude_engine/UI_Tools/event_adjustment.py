@@ -13,9 +13,8 @@ import numpy as np
 from scipy.io import wavfile
 from bokeh.io import show
 from bokeh.events import ButtonClick
-from bokeh.models import Button
 from bokeh.layouts import column
-from bokeh.models import ColumnDataSource, RangeTool
+from bokeh.models import CustomJS, Button, ColumnDataSource, RangeTool
 from bokeh.plotting import figure
 
 
@@ -29,8 +28,12 @@ def load_wav(filename):
     audioSource = ColumnDataSource({'y': data, 'x': np.arange(0, len(data), 1)})
     return audioSource, sRate
 
-def play_selection(event):
-    print("Play action")
+def play_selection(audioSlice, inPoint, outPoint):
+    return CustomJS(args=dict(source=audioSlice, inPt=inPoint, outPt=outPoint), code="""
+    var data = source.data;
+    var f = cb_obj.value
+    console.log(`JS:Click to play from ${inPt} to ${outPt}`)
+""")
 
 def plot_wav_range(audioSource):
     p = figure(plot_height=300, plot_width=800, tools="xpan", toolbar_location=None,
@@ -49,7 +52,7 @@ def plot_wav_range(audioSource):
     range_tool.overlay.fill_color = "navy"
     range_tool.overlay.fill_alpha = 0.2
     play_button = Button(label="Play Selection")
-    play_button.on_event(ButtonClick, play_selection)
+    play_button.js_on_event(ButtonClick, play_selection(audioSource, range_tool.x_range.start, range_tool.x_range.end))
 
     select.line('x', 'y', source=audioSource)
     select.ygrid.grid_line_color = None

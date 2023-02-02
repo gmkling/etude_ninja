@@ -144,5 +144,5 @@ typing==3.6.6
 uritemplate==3.0.0
 urllib3<1.25,>=1.21.1
 wcwidth==0.1.7
-Werkzeug==0.15.3
+Werkzeug==0.15.5
 wrapt==1.11.1

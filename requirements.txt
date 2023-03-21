@@ -62,7 +62,7 @@ itsdangerous==1.1.0
 jax==0.1.22
 jaxlib==0.1.12
 Jinja2>=2.10.1
-joblib==0.13.2
+joblib==1.2.0
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 kfac==0.1.4

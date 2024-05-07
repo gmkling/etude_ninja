@@ -32,7 +32,7 @@ funcsigs==1.0.2
 future==0.17.1
 futures
 gast==0.2.2
-gevent==1.4.0
+gevent==23.9.0
 gin-config==0.1.4
 google-api-core==1.8.2
 google-api-python-client==1.7.8
